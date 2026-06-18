@@ -1,0 +1,48 @@
+title: Akın Demir
+description: DFIR & Cyber Security Analyst
+fonts:
+  heading: "Space Grotesk"
+  mono: "JetBrains Mono"
+author: Akın Demir
+email: akindemirsec@gmail.com
+baseurl: ""
+url: "https://akindemirsec.github.io"
+github_username: akindemirsec
+linkedin_username: akindemirsec
+twitter_username: 0x52sh3ll
+permalink: /blog/:year/:month/:day/:title/
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "Akın Demir"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+
+exclude:
+  - old_content
+  - .gitignore
+  - README.md
+  - QUICKSTART.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
