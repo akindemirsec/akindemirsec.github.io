@@ -24,7 +24,7 @@ permalink: /about/
     <div class="exp-right">
       <h3>DFIR & Cyber Security Analyst</h3>
       <span class="exp-company">DIFOSE LLC</span>
-      <p>Digital forensics investigations, incident response, SIEM operations, threat hunting, and security analysis.</p>
+      <p>Digital forensics investigations, incident response, R&D, threat hunting, and security analysis.</p>
     </div>
   </div>
   <div class="exp-row">
@@ -36,6 +36,28 @@ permalink: /about/
       <h3>Forward Deploy Engineer</h3>
       <span class="exp-company">Binalyze</span>
       <p>Deployment, integration and technical support for digital forensics platform solutions.</p>
+    </div>
+  </div>
+  <div class="exp-row">
+    <div class="exp-left">
+      <div class="exp-period">2023 &mdash; 2024</div>
+      <div class="exp-type-badge">LONG-TERM INTERN</div>
+    </div>
+    <div class="exp-right">
+      <h3>DevSecOps & SOC Intern</h3>
+      <span class="exp-company">HAVELSAN</span>
+      <p>Worked on DevSecOps processes, integration of security into CI/CD pipelines, and Security Operations Center (SOC) monitoring and analysis.</p>
+    </div>
+  </div>
+  <div class="exp-row">
+    <div class="exp-left">
+      <div class="exp-period">2023 &mdash; 2023</div>
+      <div class="exp-type-badge">INTERN</div>
+    </div>
+    <div class="exp-right">
+      <h3>Cyber Security Intern</h3>
+      <span class="exp-company">Cybernova Cyber Security</span>
+      <p>Focused on malware analysis, analyzing malicious behavior, and understanding threat indicators.</p>
     </div>
   </div>
 </section>
