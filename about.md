@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="page-header-section fu">
   <div class="page-label">// ABOUT</div>
-  <h1>Defender, builder, perpetual investigator.</h1>
+  <h1>Defender & Builder</h1>
   <p>
     I work at the intersection of digital forensics, incident response, and security operations. By day I investigate security incidents and deploy forensic tooling; by night I write about what I learn and build tools to make the work faster.
   </p>
