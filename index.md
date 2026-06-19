@@ -28,13 +28,6 @@ title: Home
   </div>
 </section>
 
-<div class="status-strip fu">
-  <div class="status-strip-left">
-    <span><span class="pulse-dot"></span> AVAILABLE FOR DFIR ENGAGEMENTS</span>
-    <span>LOC: TURKEY (UTC+3)</span>
-  </div>
-  <span>{{ site.email }}</span>
-</div>
 
 <section class="sec fu">
   <div class="sec-head">
